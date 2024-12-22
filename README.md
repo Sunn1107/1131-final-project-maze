@@ -15,7 +15,7 @@ Authors: 112321064 112321070
 
 * LED 陣列 :
 8 顆 LED，正常遊戲時為全關閉狀態。遊戲結束時，所有 LED 全亮。
-  <img src="https://github.com/user-attachments/assets/476cf724-fefa-481e-b96f-210097b02d77" style="led"width:50%;" />
+  <img src="https://github.com/user-attachments/assets/476cf724-fefa-481e-b96f-210097b02d77" style="width:50%;" />
 ![image](https://github.com/user-attachments/assets/476cf724-fefa-481e-b96f-210097b02d77)
 
 * 蜂鳴器 (BUZZER)：
