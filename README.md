@@ -15,7 +15,8 @@ Authors: 112321064 112321070
 
 * LED 陣列 :
 8 顆 LED，正常遊戲時為全關閉狀態。遊戲結束時，所有 LED 全亮。
-  
+  ![Uploading image.png…]()
+
 * 蜂鳴器 (BUZZER)：
 當玩家完成所有關卡時觸發蜂鳴器發聲，提示遊戲結束。
 ![image](https://github.com/user-attachments/assets/e5b740bb-38a9-4152-a0f1-666b8a40c760)
