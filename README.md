@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/11cd7be7-16e0-40f3-8283-17c14dc097e6)# 1131-final-project-maze
+# 1131-final-ptoject-maze
 Authors: 112321064 112321070
 ## 迷宮探索：絕地大冒險
 ### Input/Output unit:
@@ -9,6 +9,7 @@ Authors: 112321064 112321070
 出口顯示綠色。
 通路不發光。
 遊戲結束時，所有LED8x8 矩陣顯示器閃爍。
+ <img src="https://github.com/user-attachments/assets/d857a40b-a5cf-4a62-88ef-61e7637ee530" style="width:30%;" />
  
 * 七段顯示器 :
 用於顯示當前關卡數字（1、2、3...）。在遊戲結束時，七段顯示器保留最後的關卡數字。
@@ -18,7 +19,7 @@ Authors: 112321064 112321070
 
 * LED 陣列 :
 8 顆 LED，正常遊戲時為全關閉狀態。遊戲結束時，所有 LED 全亮。
-  <img src="https://github.com/user-attachments/assets/d857a40b-a5cf-4a62-88ef-61e7637ee530" style="width:30%;" />
+  
 
 * 蜂鳴器 (BUZZER)：
 當玩家完成所有關卡時觸發蜂鳴器發聲，提示遊戲結束。
