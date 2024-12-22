@@ -56,3 +56,5 @@ Authors: 112321064 112321070
 
 * BUZZER : 接到蜂鳴器。
 遊戲結束時，蜂鳴器響起提示玩家。
+### 影片
+https://drive.google.com/drive/folders/1-tzRw5pFJM_YKahRFnB8r6rL0asePRd3?usp=sharing
