@@ -12,16 +12,17 @@ Authors: 112321064 112321070
  
 * 七段顯示器 :
 用於顯示當前關卡數字（1、2、3...）。在遊戲結束時，七段顯示器保留最後的關卡數字。
-<img src="https://github.com/user-attachments/assets/476cf724-fefa-481e-b96f-210097b02d77" style="width:50%;" />
-<img src="https://github.com/user-attachments/assets/a9ced6d3-414a-467b-a8a8-ed60f35facc4" style="width:50%;" />
-<img src="https://github.com/user-attachments/assets/a99807ed-0fd0-40d8-826c-05b8f803e5d3" style="width:50%;" />
+<img src="https://github.com/user-attachments/assets/476cf724-fefa-481e-b96f-210097b02d77" style="width:30%;" />
+<img src="https://github.com/user-attachments/assets/a9ced6d3-414a-467b-a8a8-ed60f35facc4" style="width:30%;" />
+<img src="https://github.com/user-attachments/assets/a99807ed-0fd0-40d8-826c-05b8f803e5d3" style="width:30%;" />
 
 * LED 陣列 :
 8 顆 LED，正常遊戲時為全關閉狀態。遊戲結束時，所有 LED 全亮。
-  
+  <img src="https://github.com/user-attachments/assets/d857a40b-a5cf-4a62-88ef-61e7637ee530" style="width:30%;" />
+
 * 蜂鳴器 (BUZZER)：
 當玩家完成所有關卡時觸發蜂鳴器發聲，提示遊戲結束。
-<img src="https://github.com/user-attachments/assets/e5b740bb-38a9-4152-a0f1-666b8a40c760" style="width:50%;" />
+<img src="https://github.com/user-attachments/assets/e5b740bb-38a9-4152-a0f1-666b8a40c760" style="width:30%;" />
 
 ### 功能說明
 * 玩家控制：
